@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Daniel Oluwole, You can call me Astro
-- 👀 I’m interested in Fullstack Web development
-- 🌱 I’m currently learning  Node.js/Expressjs and building APIs 
+  
+- 👀 I’m a back-end web && CLI tool developer
+  
+- I use python and JavaScript(Django & Nodejs)
+  
+- 🌱 I’m currently learning Golang
+    
 - 💞️ I’m looking to collaborate on interesting projects,hit me up.
 - 📫 How to reach me via email : astrovector787@gmail.com
 
